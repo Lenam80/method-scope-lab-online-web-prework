@@ -1,3 +1,3 @@
-def rescue_princess_peach
+def  "It's-a me, Mario!"
   puts phrase
 end
